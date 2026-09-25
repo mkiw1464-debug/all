@@ -1,9 +1,9 @@
 {
-  "status": "ACTIVE",
+  "status": "ONLINE",
   "aimBody": "SAFE",
   "aimNeck": "SAFE",
   "aimChest": "SAFE",
   "aimDrag": "SAFE",
   "magicBullet": "SAFE",
-  "hologram": "SAFE"
+  "hologram": "RISK"
 }
