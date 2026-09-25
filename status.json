@@ -1,0 +1,9 @@
+{
+  "status": "ACTIVE",
+  "aimBody": "SAFE",
+  "aimNeck": "SAFE",
+  "aimChest": "SAFE",
+  "aimDrag": "SAFE",
+  "magicBullet": "SAFE",
+  "hologram": "SAFE"
+}
